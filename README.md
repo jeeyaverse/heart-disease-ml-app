@@ -31,6 +31,7 @@ Tech Stack
 
 Dataset
 Heart Disease Dataset containing clinical attributes such as age, cholesterol, resting blood pressure, ECG results, chest pain type, maximum heart rate, and exercise-induced angina.
+Dataset Link: https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 Model Performance
 - Logistic Regression Accuracy: 86.26%
