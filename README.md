@@ -2,7 +2,7 @@
 
 A machine learning-based classification web application for predicting the likelihood of heart disease using clinical and medical parameters, built with Python and Streamlit.
 
-## Machine Learning Models Used:
+## Machine Learning Models Used  
 ### Classification Models
 - Logistic Regression
 - Support Vector Machine (SVM)
@@ -22,7 +22,9 @@ A machine learning-based classification web application for predicting the likel
 - ST Slope
 
 ## Target Variable
-- Heart Disease (0 = No Disease, 1 = Disease)
+- Heart Disease (Binary Classification)
+  - 0 = No Heart Disease
+  - 1 = Heart Disease
 
 ## Data Preprocessing
 - Removed duplicate records.
@@ -63,6 +65,7 @@ Heart Disease Dataset from Kaggle.
 https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 ## Model Performance
+Models were evaluated using Accuracy, Precision, Recall, and F1 Score.
 - Logistic Regression Accuracy: 86.26%
 - SVM Accuracy: 86.81%
 - Random Forest Accuracy: 87.91%
